@@ -48,3 +48,15 @@ img {
     top: 50%;
     transform: translateY(-50%);
 }
+
+.six {
+    bottom: 6px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.nine {
+    left: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+}
